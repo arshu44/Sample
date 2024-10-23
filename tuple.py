@@ -1,0 +1,8 @@
+# a=("apple","orange","mango","bananna","grip")
+# print(a)
+# b=list(a)
+# # print(type(b))
+# # b.append('cherry')
+# # print(b)
+# c=tuple(b)
+# print(c)
